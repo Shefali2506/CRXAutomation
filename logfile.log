@@ -1,0 +1,920 @@
+2018-10-16 14:15:42,936 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:15:42,937 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:15:42,937 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-16 14:15:42,938 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:15:42,938 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:15:44,402 INFO  [Log]  Excel sheet opened 
+2018-10-16 14:30:08,257 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:30:08,258 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:30:08,258 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-16 14:30:08,258 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:30:08,258 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:30:08,876 INFO  [Log]  Excel sheet opened 
+2018-10-16 14:30:48,181 INFO  [Log] New driver instantiated 
+2018-10-16 14:30:48,327 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-16 14:31:11,294 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:31:11,295 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:31:11,295 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-16 14:31:11,295 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:31:11,295 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:31:11,905 INFO  [Log]  Excel sheet opened 
+2018-10-16 14:31:25,308 INFO  [Log] New driver instantiated 
+2018-10-16 14:31:25,330 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-16 14:31:38,893 INFO  [Log] Web application launched 
+2018-10-16 14:31:38,934 INFO  [Log] Username picked from Excel is testuser1 
+2018-10-16 14:31:38,934 INFO  [Log] Password picked from Excel is Test@123 
+2018-10-16 14:31:38,973 INFO  [Log] My Account link element found 
+2018-10-16 14:31:46,056 INFO  [Log] Click action performed on My Account link 
+2018-10-16 14:31:46,109 INFO  [Log] Username text box found 
+2018-10-16 14:31:46,221 INFO  [Log] Username entered in the Username text box 
+2018-10-16 14:31:46,236 INFO  [Log] Password text box found 
+2018-10-16 14:31:46,267 INFO  [Log] Password entered in the Password text box 
+2018-10-16 14:31:46,287 INFO  [Log] Submit button found 
+2018-10-16 14:31:46,598 INFO  [Log] Click action performed on Submit button 
+2018-10-16 14:36:45,500 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:36:45,501 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:36:45,501 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-16 14:36:45,501 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:36:45,501 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:36:46,127 INFO  [Log]  Excel sheet opened 
+2018-10-16 14:37:00,560 INFO  [Log] New driver instantiated 
+2018-10-16 14:37:00,582 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-16 14:37:12,151 INFO  [Log] Web application launched 
+2018-10-16 14:37:12,158 INFO  [Log] Username picked from Excel is shefali.rathore@inficaretech.com 
+2018-10-16 14:37:12,158 INFO  [Log] Password picked from Excel is Shefali@123 
+2018-10-16 14:37:12,187 INFO  [Log] My Account link element found 
+2018-10-16 14:37:14,743 INFO  [Log] Click action performed on My Account link 
+2018-10-16 14:37:14,775 INFO  [Log] Username text box found 
+2018-10-16 14:37:14,822 INFO  [Log] Username entered in the Username text box 
+2018-10-16 14:37:14,835 INFO  [Log] Password text box found 
+2018-10-16 14:37:14,873 INFO  [Log] Password entered in the Password text box 
+2018-10-16 14:37:14,886 INFO  [Log] Submit button found 
+2018-10-16 14:37:15,135 INFO  [Log] Click action performed on Submit button 
+2018-10-16 14:37:19,091 INFO  [Log] Log Out link element found 
+2018-10-16 14:37:23,377 INFO  [Log] Click action is perfomred on Log Out link 
+2018-10-16 14:37:25,628 INFO  [Log] Browser closed 
+2018-10-16 14:37:26,026 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-16 14:37:26,026 INFO  [Log] X 
+2018-10-16 14:37:26,026 INFO  [Log] X 
+2018-10-16 14:37:26,026 INFO  [Log] X 
+2018-10-16 14:37:26,026 INFO  [Log] X 
+2018-10-16 14:38:17,323 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:38:17,323 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:38:17,323 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-16 14:38:17,324 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:38:17,324 INFO  [Log] **************************************************************************************** 
+2018-10-16 14:38:17,902 INFO  [Log]  Excel sheet opened 
+2018-10-16 14:38:24,416 INFO  [Log] New driver instantiated 
+2018-10-16 14:38:24,433 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-16 14:38:31,498 INFO  [Log] Web application launched 
+2018-10-16 14:38:31,510 INFO  [Log] Username picked from Excel is shefali.rathore@inficaretech.com 
+2018-10-16 14:38:31,511 INFO  [Log] Password picked from Excel is Shefali@123 
+2018-10-16 14:38:31,551 INFO  [Log] My Account link element found 
+2018-10-16 14:38:34,782 INFO  [Log] Click action performed on My Account link 
+2018-10-16 14:38:34,805 INFO  [Log] Username text box found 
+2018-10-16 14:38:34,855 INFO  [Log] Username entered in the Username text box 
+2018-10-16 14:38:34,868 INFO  [Log] Password text box found 
+2018-10-16 14:38:34,907 INFO  [Log] Password entered in the Password text box 
+2018-10-16 14:38:34,919 INFO  [Log] Submit button found 
+2018-10-16 14:38:35,162 INFO  [Log] Click action performed on Submit button 
+2018-10-16 14:38:39,095 INFO  [Log] Log Out link element found 
+2018-10-16 14:38:42,723 INFO  [Log] Click action is perfomred on Log Out link 
+2018-10-16 14:38:44,772 INFO  [Log] Browser closed 
+2018-10-16 14:38:44,903 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-16 14:38:44,903 INFO  [Log] X 
+2018-10-16 14:38:44,903 INFO  [Log] X 
+2018-10-16 14:38:44,903 INFO  [Log] X 
+2018-10-16 14:38:44,903 INFO  [Log] X 
+2018-10-17 17:01:02,017 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:01:02,040 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:01:02,041 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 17:01:02,041 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:01:02,041 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:01:03,792 INFO  [Log]  Excel sheet opened 
+2018-10-17 17:01:29,629 INFO  [Log] New driver instantiated 
+2018-10-17 17:01:29,779 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-17 17:01:41,762 INFO  [Log] Web application launched 
+2018-10-17 17:01:41,831 INFO  [Log] Username picked from Excel is shefali.rathore@inficaretech.com 
+2018-10-17 17:01:41,831 INFO  [Log] Password picked from Excel is Shefali@123 
+2018-10-17 17:01:41,976 INFO  [Log] My Account link element found 
+2018-10-17 17:01:45,572 INFO  [Log] Click action performed on My Account link 
+2018-10-17 17:01:45,635 INFO  [Log] Username text box found 
+2018-10-17 17:01:45,734 INFO  [Log] Username entered in the Username text box 
+2018-10-17 17:01:45,748 INFO  [Log] Password text box found 
+2018-10-17 17:01:45,782 INFO  [Log] Password entered in the Password text box 
+2018-10-17 17:01:45,794 INFO  [Log] Submit button found 
+2018-10-17 17:01:46,047 INFO  [Log] Click action performed on Submit button 
+2018-10-17 17:01:49,238 INFO  [Log] Log Out link element found 
+2018-10-17 17:01:53,016 INFO  [Log] Click action is perfomred on Log Out link 
+2018-10-17 17:01:54,714 INFO  [Log] Browser closed 
+2018-10-17 17:01:54,935 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-17 17:01:54,935 INFO  [Log] X 
+2018-10-17 17:01:54,935 INFO  [Log] X 
+2018-10-17 17:01:54,935 INFO  [Log] X 
+2018-10-17 17:01:54,935 INFO  [Log] X 
+2018-10-17 17:14:02,503 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:14:02,504 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:14:02,504 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 17:14:02,504 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:14:02,504 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:14:03,153 INFO  [Log]  Excel sheet opened 
+2018-10-17 17:14:15,447 INFO  [Log] New driver instantiated 
+2018-10-17 17:14:15,481 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-17 17:14:27,646 INFO  [Log] Web application launched 
+2018-10-17 17:14:27,653 INFO  [Log] Username picked from Excel is shefali.rathore@inficaretech.com 
+2018-10-17 17:14:27,653 INFO  [Log] Password picked from Excel is Shefali@123 
+2018-10-17 17:14:27,692 INFO  [Log] My Account link element found 
+2018-10-17 17:14:30,862 INFO  [Log] Click action performed on My Account link 
+2018-10-17 17:14:30,922 INFO  [Log] Username text box found 
+2018-10-17 17:14:30,980 INFO  [Log] Username entered in the Username text box 
+2018-10-17 17:14:30,994 INFO  [Log] Password text box found 
+2018-10-17 17:14:31,064 INFO  [Log] Password entered in the Password text box 
+2018-10-17 17:14:31,094 INFO  [Log] Submit button found 
+2018-10-17 17:14:31,358 INFO  [Log] Click action performed on Submit button 
+2018-10-17 17:14:34,537 INFO  [Log] Log Out link element found 
+2018-10-17 17:14:39,792 INFO  [Log] Click action is perfomred on Log Out link 
+2018-10-17 17:14:42,128 INFO  [Log] Browser closed 
+2018-10-17 17:14:42,311 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-17 17:14:42,311 INFO  [Log] X 
+2018-10-17 17:14:42,311 INFO  [Log] X 
+2018-10-17 17:14:42,311 INFO  [Log] X 
+2018-10-17 17:14:42,311 INFO  [Log] X 
+2018-10-17 17:22:46,989 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:22:46,990 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:22:46,990 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 17:22:46,990 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:22:46,990 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:22:47,877 INFO  [Log]  Excel sheet opened 
+2018-10-17 17:22:56,390 INFO  [Log] New driver instantiated 
+2018-10-17 17:22:56,449 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-17 17:23:08,043 INFO  [Log] Web application launched 
+2018-10-17 17:23:08,052 INFO  [Log] Username picked from Excel is shefali.rathore@inficaretech.com 
+2018-10-17 17:23:08,052 INFO  [Log] Password picked from Excel is Shefali@123 
+2018-10-17 17:23:08,100 INFO  [Log] My Account link element found 
+2018-10-17 17:23:12,932 INFO  [Log] Click action performed on My Account link 
+2018-10-17 17:23:12,970 INFO  [Log] Username text box found 
+2018-10-17 17:23:13,045 INFO  [Log] Username entered in the Username text box 
+2018-10-17 17:23:13,062 INFO  [Log] Password text box found 
+2018-10-17 17:23:13,120 INFO  [Log] Password entered in the Password text box 
+2018-10-17 17:23:13,148 INFO  [Log] Submit button found 
+2018-10-17 17:23:13,404 INFO  [Log] Click action performed on Submit button 
+2018-10-17 17:23:16,838 INFO  [Log] Log Out link element found 
+2018-10-17 17:23:17,191 INFO  [Log] Click action is perfomred on Log Out link 
+2018-10-17 17:23:18,998 INFO  [Log] Browser closed 
+2018-10-17 17:23:19,178 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-17 17:23:19,178 INFO  [Log] X 
+2018-10-17 17:23:19,178 INFO  [Log] X 
+2018-10-17 17:23:19,178 INFO  [Log] X 
+2018-10-17 17:23:19,178 INFO  [Log] X 
+2018-10-17 17:29:40,603 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:29:40,604 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:29:40,604 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 17:29:40,604 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:29:40,604 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:29:41,377 INFO  [Log]  Excel sheet opened 
+2018-10-17 17:31:37,945 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:31:37,945 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:31:37,946 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 17:31:37,946 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:31:37,946 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:31:38,722 INFO  [Log]  Excel sheet opened 
+2018-10-17 17:31:50,787 INFO  [Log] New driver instantiated 
+2018-10-17 17:31:50,880 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-17 17:31:59,428 INFO  [Log] Web application launched 
+2018-10-17 17:31:59,435 INFO  [Log] Username picked from Excel is shefali.rathore@inficaretech.com 
+2018-10-17 17:31:59,435 INFO  [Log] Password picked from Excel is Shefali@123 
+2018-10-17 17:40:34,706 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:40:34,707 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:40:34,707 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 17:40:34,707 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:40:34,707 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:40:35,380 INFO  [Log]  Excel sheet opened 
+2018-10-17 17:40:47,815 INFO  [Log] New driver instantiated 
+2018-10-17 17:40:47,861 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-17 17:40:58,015 INFO  [Log] Web application launched 
+2018-10-17 17:40:58,031 INFO  [Log] Username picked from Excel is shefali.rathore@inficaretech.com 
+2018-10-17 17:40:58,031 INFO  [Log] Password picked from Excel is Shefali@123 
+2018-10-17 17:40:58,077 INFO  [Log] Username text box found 
+2018-10-17 17:40:58,187 INFO  [Log] Username entered in the Username text box 
+2018-10-17 17:40:58,212 INFO  [Log] Password text box found 
+2018-10-17 17:40:58,278 INFO  [Log] Password entered in the Password text box 
+2018-10-17 17:40:58,302 INFO  [Log] Submit button found 
+2018-10-17 17:40:59,166 INFO  [Log] Click action performed on Submit button 
+2018-10-17 17:42:14,708 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:42:14,709 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:42:14,710 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 17:42:14,710 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:42:14,710 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:42:15,481 INFO  [Log]  Excel sheet opened 
+2018-10-17 17:42:29,196 INFO  [Log] New driver instantiated 
+2018-10-17 17:42:29,235 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-17 17:42:34,876 INFO  [Log] Web application launched 
+2018-10-17 17:42:34,884 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-17 17:42:34,885 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-17 17:42:34,935 INFO  [Log] Username text box found 
+2018-10-17 17:42:35,143 INFO  [Log] Username entered in the Username text box 
+2018-10-17 17:42:35,174 INFO  [Log] Password text box found 
+2018-10-17 17:42:35,253 INFO  [Log] Password entered in the Password text box 
+2018-10-17 17:42:35,280 INFO  [Log] Submit button found 
+2018-10-17 17:42:51,614 INFO  [Log] Click action performed on Submit button 
+2018-10-17 17:58:16,247 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:58:16,312 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:58:16,313 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 17:58:16,313 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:58:16,313 INFO  [Log] **************************************************************************************** 
+2018-10-17 17:58:16,988 INFO  [Log]  Excel sheet opened 
+2018-10-17 17:58:26,552 INFO  [Log] New driver instantiated 
+2018-10-17 17:58:26,618 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-17 17:58:32,091 INFO  [Log] Web application launched 
+2018-10-17 17:58:32,159 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-17 17:58:32,159 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-17 17:58:32,245 INFO  [Log] Username text box found 
+2018-10-17 17:58:32,306 INFO  [Log] Username entered in the Username text box 
+2018-10-17 17:58:32,321 INFO  [Log] Password text box found 
+2018-10-17 17:58:32,353 INFO  [Log] Password entered in the Password text box 
+2018-10-17 17:58:32,367 INFO  [Log] Submit button found 
+2018-10-17 17:58:43,819 INFO  [Log] Click action performed on Submit button 
+2018-10-17 17:58:43,853 INFO  [Log] Log Out link element found 
+2018-10-17 18:00:26,449 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:00:26,450 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:00:26,462 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 18:00:26,462 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:00:26,463 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:00:27,564 INFO  [Log]  Excel sheet opened 
+2018-10-17 18:00:35,955 INFO  [Log] New driver instantiated 
+2018-10-17 18:00:36,052 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-17 18:00:46,353 INFO  [Log] Web application launched 
+2018-10-17 18:00:46,362 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-17 18:00:46,362 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-17 18:00:46,445 INFO  [Log] Username text box found 
+2018-10-17 18:00:46,606 INFO  [Log] Username entered in the Username text box 
+2018-10-17 18:00:46,642 INFO  [Log] Password text box found 
+2018-10-17 18:00:46,755 INFO  [Log] Password entered in the Password text box 
+2018-10-17 18:00:46,779 INFO  [Log] Submit button found 
+2018-10-17 18:01:03,047 INFO  [Log] Click action performed on Submit button 
+2018-10-17 18:01:03,079 INFO  [Log] Log Out link element found 
+2018-10-17 18:12:05,117 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:12:05,118 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:12:05,118 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 18:12:05,118 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:12:05,118 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:12:05,832 INFO  [Log]  Excel sheet opened 
+2018-10-17 18:12:14,990 INFO  [Log] New driver instantiated 
+2018-10-17 18:12:15,009 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-17 18:12:23,138 INFO  [Log] Web application launched 
+2018-10-17 18:12:23,147 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-17 18:12:23,147 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-17 18:12:23,180 INFO  [Log] Username text box found 
+2018-10-17 18:12:23,235 INFO  [Log] Username entered in the Username text box 
+2018-10-17 18:12:23,255 INFO  [Log] Password text box found 
+2018-10-17 18:12:23,373 INFO  [Log] Password entered in the Password text box 
+2018-10-17 18:12:23,391 INFO  [Log] Submit button found 
+2018-10-17 18:12:44,514 INFO  [Log] Click action performed on Submit button 
+2018-10-17 18:12:44,537 INFO  [Log] Clicked on logged in User image 
+2018-10-17 18:12:44,791 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-17 18:12:46,456 INFO  [Log] Browser closed 
+2018-10-17 18:12:46,813 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-17 18:12:46,813 INFO  [Log] X 
+2018-10-17 18:12:46,813 INFO  [Log] X 
+2018-10-17 18:12:46,813 INFO  [Log] X 
+2018-10-17 18:12:46,813 INFO  [Log] X 
+2018-10-17 18:16:25,117 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:16:25,118 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:16:25,118 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 18:16:25,118 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:16:25,118 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:16:26,055 INFO  [Log]  Excel sheet opened 
+2018-10-17 18:16:33,183 INFO  [Log] New driver instantiated 
+2018-10-17 18:16:33,210 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-17 18:16:39,164 INFO  [Log] Web application launched 
+2018-10-17 18:16:39,173 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-17 18:16:39,174 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-17 18:16:39,214 INFO  [Log] Username text box found 
+2018-10-17 18:16:39,284 INFO  [Log] Username entered in the Username text box 
+2018-10-17 18:16:39,299 INFO  [Log] Password text box found 
+2018-10-17 18:16:39,357 INFO  [Log] Password entered in the Password text box 
+2018-10-17 18:16:39,377 INFO  [Log] Submit button found 
+2018-10-17 18:17:28,801 INFO  [Log] Click action performed on Submit button 
+2018-10-17 18:17:28,868 INFO  [Log] Clicked on logged in User image 
+2018-10-17 18:17:29,142 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-17 18:17:31,139 INFO  [Log] Browser closed 
+2018-10-17 18:17:31,343 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-17 18:17:31,343 INFO  [Log] X 
+2018-10-17 18:17:31,343 INFO  [Log] X 
+2018-10-17 18:17:31,343 INFO  [Log] X 
+2018-10-17 18:17:31,343 INFO  [Log] X 
+2018-10-17 18:19:15,419 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:19:15,419 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:19:15,419 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-17 18:19:15,420 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:19:15,420 INFO  [Log] **************************************************************************************** 
+2018-10-17 18:19:16,136 INFO  [Log]  Excel sheet opened 
+2018-10-18 14:19:55,402 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:19:55,412 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:19:55,412 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-18 14:19:55,413 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:19:55,413 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:19:56,654 INFO  [Log]  Excel sheet opened 
+2018-10-18 14:20:30,281 INFO  [Log] New driver instantiated 
+2018-10-18 14:20:30,467 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-18 14:20:37,543 INFO  [Log] Web application launched 
+2018-10-18 14:20:37,639 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-18 14:20:37,639 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-18 14:20:37,767 INFO  [Log] Username text box found 
+2018-10-18 14:20:37,826 INFO  [Log] Username entered in the Username text box 
+2018-10-18 14:20:37,838 INFO  [Log] Password text box found 
+2018-10-18 14:20:37,868 INFO  [Log] Password entered in the Password text box 
+2018-10-18 14:20:37,881 INFO  [Log] Submit button found 
+2018-10-18 14:20:55,301 INFO  [Log] Click action performed on Submit button 
+2018-10-18 14:20:55,346 INFO  [Log] Clicked on logged in User image 
+2018-10-18 14:20:55,590 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-18 14:20:57,453 INFO  [Log] Browser closed 
+2018-10-18 14:20:57,749 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-18 14:20:57,749 INFO  [Log] X 
+2018-10-18 14:20:57,749 INFO  [Log] X 
+2018-10-18 14:20:57,749 INFO  [Log] X 
+2018-10-18 14:20:57,749 INFO  [Log] X 
+2018-10-18 14:51:01,860 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:51:01,905 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:51:01,905 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-18 14:51:01,905 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:51:01,905 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:51:02,568 INFO  [Log]  Excel sheet opened 
+2018-10-18 14:51:19,734 INFO  [Log] New driver instantiated 
+2018-10-18 14:51:20,279 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-18 14:51:27,243 INFO  [Log] Web application launched 
+2018-10-18 14:51:27,308 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-18 14:51:27,309 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-18 14:51:27,466 INFO  [Log] Username text box found 
+2018-10-18 14:51:27,718 INFO  [Log] Username entered in the Username text box 
+2018-10-18 14:51:27,734 INFO  [Log] Password text box found 
+2018-10-18 14:51:27,767 INFO  [Log] Password entered in the Password text box 
+2018-10-18 14:51:27,782 INFO  [Log] Submit button found 
+2018-10-18 14:51:39,249 INFO  [Log] Click action performed on Submit button 
+2018-10-18 14:51:39,285 INFO  [Log] Clicked on logged in User image 
+2018-10-18 14:51:39,565 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-18 14:51:41,699 INFO  [Log] Browser closed 
+2018-10-18 14:51:41,947 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-18 14:51:41,947 INFO  [Log] X 
+2018-10-18 14:51:41,947 INFO  [Log] X 
+2018-10-18 14:51:41,947 INFO  [Log] X 
+2018-10-18 14:51:41,947 INFO  [Log] X 
+2018-10-18 14:52:01,762 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:52:01,763 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:52:01,763 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-18 14:52:01,763 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:52:01,763 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:52:02,477 INFO  [Log]  Excel sheet opened 
+2018-10-18 14:52:09,142 INFO  [Log] New driver instantiated 
+2018-10-18 14:52:09,161 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-18 14:52:10,172 INFO  [Log] Web application launched 
+2018-10-18 14:52:10,182 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-18 14:52:10,183 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-18 14:52:58,419 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:52:58,420 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:52:58,420 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-18 14:52:58,420 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:52:58,420 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:52:59,152 INFO  [Log]  Excel sheet opened 
+2018-10-18 14:53:15,678 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:53:15,678 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:53:15,679 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-18 14:53:15,679 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:53:15,679 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:53:16,294 INFO  [Log]  Excel sheet opened 
+2018-10-18 14:53:27,891 INFO  [Log] New driver instantiated 
+2018-10-18 14:53:27,914 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-18 14:53:32,595 INFO  [Log] Web application launched 
+2018-10-18 14:53:32,606 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-18 14:53:32,606 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-18 14:53:32,658 INFO  [Log] Username text box found 
+2018-10-18 14:53:32,737 INFO  [Log] Username entered in the Username text box 
+2018-10-18 14:53:32,759 INFO  [Log] Password text box found 
+2018-10-18 14:53:32,792 INFO  [Log] Password entered in the Password text box 
+2018-10-18 14:53:32,806 INFO  [Log] Submit button found 
+2018-10-18 14:53:49,796 INFO  [Log] Click action performed on Submit button 
+2018-10-18 14:53:49,830 INFO  [Log] Clicked on logged in User image 
+2018-10-18 14:53:50,079 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-18 14:54:24,224 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:54:24,225 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:54:24,225 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-18 14:54:24,225 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:54:24,225 INFO  [Log] **************************************************************************************** 
+2018-10-18 14:54:24,893 INFO  [Log]  Excel sheet opened 
+2018-10-18 14:54:33,490 INFO  [Log] New driver instantiated 
+2018-10-18 14:54:33,511 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-18 14:54:42,034 INFO  [Log] Web application launched 
+2018-10-18 14:54:42,040 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-18 14:54:42,041 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-18 14:54:42,065 INFO  [Log] Username text box found 
+2018-10-18 14:54:42,118 INFO  [Log] Username entered in the Username text box 
+2018-10-18 14:54:42,132 INFO  [Log] Password text box found 
+2018-10-18 14:54:42,165 INFO  [Log] Password entered in the Password text box 
+2018-10-18 14:54:42,180 INFO  [Log] Submit button found 
+2018-10-18 14:54:52,072 INFO  [Log] Click action performed on Submit button 
+2018-10-18 14:54:52,272 INFO  [Log] Clicked on logged in User image 
+2018-10-18 14:54:52,768 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-18 15:46:42,465 INFO  [Log] **************************************************************************************** 
+2018-10-18 15:46:42,490 INFO  [Log] **************************************************************************************** 
+2018-10-18 15:46:42,491 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-18 15:46:42,491 INFO  [Log] **************************************************************************************** 
+2018-10-18 15:46:42,491 INFO  [Log] **************************************************************************************** 
+2018-10-18 15:46:43,670 INFO  [Log]  Excel sheet opened 
+2018-10-18 15:47:08,647 INFO  [Log] New driver instantiated 
+2018-10-18 15:47:08,826 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-18 15:47:17,146 INFO  [Log] Web application launched 
+2018-10-18 15:47:17,322 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-18 15:47:17,322 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-18 15:47:17,965 INFO  [Log] Username text box found 
+2018-10-18 15:47:18,725 INFO  [Log] Username entered in the Username text box 
+2018-10-18 15:47:18,738 INFO  [Log] Password text box found 
+2018-10-18 15:47:18,770 INFO  [Log] Password entered in the Password text box 
+2018-10-18 15:47:18,787 INFO  [Log] Submit button found 
+2018-10-18 15:47:32,132 INFO  [Log] Click action performed on Submit button 
+2018-10-18 15:47:32,160 INFO  [Log] Clicked on logged in User image 
+2018-10-18 15:47:32,436 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-18 15:47:32,945 INFO  [Log] Log Out link element found 
+2018-10-18 15:47:33,188 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-18 15:47:33,606 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-18 15:47:33,606 INFO  [Log] X 
+2018-10-18 15:47:33,606 INFO  [Log] X 
+2018-10-18 15:47:33,607 INFO  [Log] X 
+2018-10-18 15:47:33,607 INFO  [Log] X 
+2018-10-24 12:03:17,998 INFO  [Log] **************************************************************************************** 
+2018-10-24 12:03:18,028 INFO  [Log] **************************************************************************************** 
+2018-10-24 12:03:18,028 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 12:03:18,028 INFO  [Log] **************************************************************************************** 
+2018-10-24 12:03:18,028 INFO  [Log] **************************************************************************************** 
+2018-10-24 12:03:18,977 INFO  [Log]  Excel sheet opened 
+2018-10-24 17:40:19,583 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:40:19,589 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:40:19,589 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 17:40:19,589 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:40:19,589 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:40:20,693 INFO  [Log]  Excel sheet opened 
+2018-10-24 17:41:20,102 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:41:20,103 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:41:20,103 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 17:41:20,103 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:41:20,103 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:41:20,675 INFO  [Log]  Excel sheet opened 
+2018-10-24 17:41:56,965 INFO  [Log] New driver instantiated 
+2018-10-24 17:41:57,252 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-24 17:42:04,173 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-24 17:42:04,174 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-24 17:46:27,805 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:46:27,806 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:46:27,806 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 17:46:27,806 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:46:27,806 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:46:28,359 INFO  [Log]  Excel sheet opened 
+2018-10-24 17:46:41,284 INFO  [Log] New driver instantiated 
+2018-10-24 17:46:41,331 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-24 17:46:49,653 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-24 17:46:49,653 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-24 17:55:42,466 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:55:42,467 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:55:42,467 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 17:55:42,467 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:55:42,467 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:55:43,016 INFO  [Log]  Excel sheet opened 
+2018-10-24 17:55:50,604 INFO  [Log] New driver instantiated 
+2018-10-24 17:55:50,619 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-24 17:55:55,310 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-24 17:55:55,313 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-24 17:59:08,075 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:59:08,076 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:59:08,076 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 17:59:08,076 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:59:08,076 INFO  [Log] **************************************************************************************** 
+2018-10-24 17:59:08,643 INFO  [Log]  Excel sheet opened 
+2018-10-24 17:59:21,730 INFO  [Log] New driver instantiated 
+2018-10-24 17:59:21,752 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-24 17:59:27,904 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-24 17:59:27,907 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-24 18:51:02,742 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:51:02,770 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:51:02,771 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 18:51:02,771 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:51:02,771 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:51:04,126 INFO  [Log]  Excel sheet opened 
+2018-10-24 18:51:15,648 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:51:15,649 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:51:15,649 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 18:51:15,649 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:51:15,649 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:51:16,218 INFO  [Log]  Excel sheet opened 
+2018-10-24 18:51:29,025 INFO  [Log] New driver instantiated 
+2018-10-24 18:51:29,131 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-24 18:51:50,312 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-24 18:51:50,312 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-24 18:58:10,213 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:58:10,214 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:58:10,214 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 18:58:10,214 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:58:10,214 INFO  [Log] **************************************************************************************** 
+2018-10-24 18:58:10,842 INFO  [Log]  Excel sheet opened 
+2018-10-24 18:58:16,356 INFO  [Log] New driver instantiated 
+2018-10-24 18:58:16,376 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-24 18:58:40,819 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-24 18:58:40,820 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-24 19:01:06,196 INFO  [Log] **************************************************************************************** 
+2018-10-24 19:01:06,197 INFO  [Log] **************************************************************************************** 
+2018-10-24 19:01:06,197 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 19:01:06,197 INFO  [Log] **************************************************************************************** 
+2018-10-24 19:01:06,197 INFO  [Log] **************************************************************************************** 
+2018-10-24 19:01:06,770 INFO  [Log]  Excel sheet opened 
+2018-10-24 19:01:21,263 INFO  [Log] New driver instantiated 
+2018-10-24 19:01:21,277 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-24 19:01:39,928 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-24 19:01:39,929 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-24 19:16:40,092 INFO  [Log] **************************************************************************************** 
+2018-10-24 19:16:40,093 INFO  [Log] **************************************************************************************** 
+2018-10-24 19:16:40,093 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-24 19:16:40,093 INFO  [Log] **************************************************************************************** 
+2018-10-24 19:16:40,093 INFO  [Log] **************************************************************************************** 
+2018-10-24 19:16:40,673 INFO  [Log]  Excel sheet opened 
+2018-10-24 19:17:17,358 INFO  [Log] New driver instantiated 
+2018-10-24 19:17:17,375 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-24 19:17:41,077 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-24 19:17:41,078 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 16:46:59,193 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:46:59,217 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:46:59,217 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 16:46:59,217 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:46:59,217 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:46:59,802 INFO  [Log]  Excel sheet opened 
+2018-10-25 16:47:13,486 INFO  [Log] New driver instantiated 
+2018-10-25 16:47:13,687 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 16:47:23,123 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 16:47:23,125 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 16:53:50,574 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:53:50,575 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:53:50,575 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 16:53:50,575 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:53:50,575 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:53:51,181 INFO  [Log]  Excel sheet opened 
+2018-10-25 16:54:04,244 INFO  [Log] New driver instantiated 
+2018-10-25 16:54:04,260 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 16:54:10,836 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 16:54:10,839 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 16:55:11,248 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:55:11,248 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:55:11,248 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 16:55:11,248 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:55:11,248 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:55:11,872 INFO  [Log]  Excel sheet opened 
+2018-10-25 16:55:23,222 INFO  [Log] New driver instantiated 
+2018-10-25 16:55:23,241 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 16:55:28,541 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 16:55:28,544 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 16:57:00,643 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:57:00,643 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:57:00,643 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 16:57:00,643 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:57:00,643 INFO  [Log] **************************************************************************************** 
+2018-10-25 16:57:01,203 INFO  [Log]  Excel sheet opened 
+2018-10-25 16:57:16,694 INFO  [Log] New driver instantiated 
+2018-10-25 16:57:16,769 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 16:57:29,739 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 16:57:29,741 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 17:03:09,027 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:03:09,027 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:03:09,027 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:03:09,027 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:03:09,027 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:03:09,629 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:03:16,534 INFO  [Log] New driver instantiated 
+2018-10-25 17:03:16,550 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:03:24,203 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 17:03:24,206 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 17:05:48,913 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:05:48,914 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:05:48,914 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:05:48,914 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:05:48,914 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:05:49,515 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:06:02,014 INFO  [Log] New driver instantiated 
+2018-10-25 17:06:02,039 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:12:59,981 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:12:59,982 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:12:59,982 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:12:59,982 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:12:59,982 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:13:00,605 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:13:21,669 INFO  [Log] New driver instantiated 
+2018-10-25 17:13:21,702 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:13:27,798 INFO  [Log] Web application launched 
+2018-10-25 17:13:27,806 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 17:13:27,807 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 17:13:27,866 INFO  [Log] Username text box found 
+2018-10-25 17:13:28,000 INFO  [Log] Username entered in the Username text box 
+2018-10-25 17:13:28,213 INFO  [Log] Password text box found 
+2018-10-25 17:13:28,296 INFO  [Log] Password entered in the Password text box 
+2018-10-25 17:13:28,317 INFO  [Log] Submit button found 
+2018-10-25 17:13:41,092 INFO  [Log] Click action performed on Submit button 
+2018-10-25 17:13:41,119 INFO  [Log] Clicked on logged in User image 
+2018-10-25 17:13:41,402 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 17:13:41,749 INFO  [Log] Log Out link element found 
+2018-10-25 17:13:41,992 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 17:13:42,382 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-25 17:13:42,382 INFO  [Log] X 
+2018-10-25 17:13:42,382 INFO  [Log] X 
+2018-10-25 17:13:42,382 INFO  [Log] X 
+2018-10-25 17:13:42,382 INFO  [Log] X 
+2018-10-25 17:13:42,401 INFO  [Log] The hospital has been selected 
+2018-10-25 17:13:43,452 INFO  [Log] Click action on the hospital name has been performed 
+2018-10-25 17:14:07,608 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:14:07,608 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:14:07,608 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:14:07,609 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:14:07,609 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:14:08,291 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:14:14,903 INFO  [Log] New driver instantiated 
+2018-10-25 17:14:14,924 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:14:19,487 INFO  [Log] Web application launched 
+2018-10-25 17:14:19,494 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 17:14:19,494 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 17:14:19,521 INFO  [Log] Username text box found 
+2018-10-25 17:14:19,575 INFO  [Log] Username entered in the Username text box 
+2018-10-25 17:14:19,593 INFO  [Log] Password text box found 
+2018-10-25 17:14:19,622 INFO  [Log] Password entered in the Password text box 
+2018-10-25 17:14:19,639 INFO  [Log] Submit button found 
+2018-10-25 17:14:29,733 INFO  [Log] Click action performed on Submit button 
+2018-10-25 17:14:29,751 INFO  [Log] Clicked on logged in User image 
+2018-10-25 17:14:30,004 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 17:14:30,194 INFO  [Log] Log Out link element found 
+2018-10-25 17:14:30,488 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 17:14:30,630 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-25 17:14:30,630 INFO  [Log] X 
+2018-10-25 17:14:30,630 INFO  [Log] X 
+2018-10-25 17:14:30,630 INFO  [Log] X 
+2018-10-25 17:14:30,630 INFO  [Log] X 
+2018-10-25 17:14:30,644 INFO  [Log] The hospital has been selected 
+2018-10-25 17:14:31,806 INFO  [Log] Click action on the hospital name has been performed 
+2018-10-25 17:15:30,157 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:15:30,158 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:15:30,158 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:15:30,158 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:15:30,158 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:15:30,736 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:15:58,198 INFO  [Log] New driver instantiated 
+2018-10-25 17:15:58,223 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:16:10,201 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 17:16:10,201 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 17:20:20,377 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:20:20,378 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:20:20,378 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:20:20,378 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:20:20,378 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:20:20,927 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:20:26,718 INFO  [Log] New driver instantiated 
+2018-10-25 17:20:26,733 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:20:32,429 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 17:20:32,430 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 17:40:20,965 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:40:20,966 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:40:20,966 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:40:20,966 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:40:20,966 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:40:21,518 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:40:28,563 INFO  [Log] New driver instantiated 
+2018-10-25 17:40:28,583 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:40:33,613 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 17:40:33,613 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 17:44:39,521 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:44:39,522 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:44:39,522 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:44:39,522 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:44:39,522 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:44:40,161 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:44:52,128 INFO  [Log] New driver instantiated 
+2018-10-25 17:44:52,169 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:44:57,584 INFO  [Log] Web application launched 
+2018-10-25 17:44:57,590 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 17:44:57,590 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 17:44:57,629 INFO  [Log] Username text box found 
+2018-10-25 17:44:57,706 INFO  [Log] Username entered in the Username text box 
+2018-10-25 17:44:57,719 INFO  [Log] Password text box found 
+2018-10-25 17:44:57,749 INFO  [Log] Password entered in the Password text box 
+2018-10-25 17:44:57,766 INFO  [Log] Submit button found 
+2018-10-25 17:45:06,794 INFO  [Log] Click action performed on Submit button 
+2018-10-25 17:45:06,818 INFO  [Log] Clicked on logged in User image 
+2018-10-25 17:45:07,082 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 17:45:07,284 INFO  [Log] Log Out link element found 
+2018-10-25 17:45:07,528 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 17:45:07,812 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-25 17:45:07,812 INFO  [Log] X 
+2018-10-25 17:45:07,812 INFO  [Log] X 
+2018-10-25 17:45:07,812 INFO  [Log] X 
+2018-10-25 17:45:07,812 INFO  [Log] X 
+2018-10-25 17:45:07,828 INFO  [Log] The hospital has been selected 
+2018-10-25 17:45:09,215 INFO  [Log] Click action on the hospital name has been performed 
+2018-10-25 17:45:30,463 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:45:30,464 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:45:30,464 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:45:30,464 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:45:30,464 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:45:31,103 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:45:57,475 INFO  [Log] New driver instantiated 
+2018-10-25 17:45:57,497 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:46:01,490 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 17:46:01,491 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 17:46:50,117 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:46:50,118 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:46:50,118 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:46:50,118 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:46:50,118 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:46:50,690 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:47:05,167 INFO  [Log] New driver instantiated 
+2018-10-25 17:47:05,182 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:47:09,684 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 17:47:09,685 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 17:47:35,374 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:47:35,374 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:47:35,374 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 17:47:35,375 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:47:35,375 INFO  [Log] **************************************************************************************** 
+2018-10-25 17:47:35,917 INFO  [Log]  Excel sheet opened 
+2018-10-25 17:47:51,260 INFO  [Log] New driver instantiated 
+2018-10-25 17:47:51,282 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 17:48:07,768 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 17:48:07,768 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 19:04:11,830 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:04:11,858 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:04:11,858 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 19:04:11,858 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:04:11,858 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:04:12,564 INFO  [Log]  Excel sheet opened 
+2018-10-25 19:04:36,973 INFO  [Log] New driver instantiated 
+2018-10-25 19:04:37,036 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 19:04:54,211 INFO  [Log] Web application launched 
+2018-10-25 19:04:54,226 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 19:04:54,226 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 19:04:54,253 INFO  [Log] Username text box found 
+2018-10-25 19:04:54,450 INFO  [Log] Username entered in the Username text box 
+2018-10-25 19:04:54,487 INFO  [Log] Password text box found 
+2018-10-25 19:04:54,595 INFO  [Log] Password entered in the Password text box 
+2018-10-25 19:04:54,707 INFO  [Log] Submit button found 
+2018-10-25 19:05:11,493 INFO  [Log] Click action performed on Submit button 
+2018-10-25 19:05:11,521 INFO  [Log] Hospital  element found 
+2018-10-25 19:05:17,961 INFO  [Log] Click action is perfomred on the hospital selected 
+2018-10-25 19:05:17,992 INFO  [Log] Clicked on logged in User image 
+2018-10-25 19:05:18,339 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 19:05:18,550 INFO  [Log] Log Out link element found 
+2018-10-25 19:05:19,898 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 19:05:20,164 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-25 19:05:20,164 INFO  [Log] X 
+2018-10-25 19:05:20,164 INFO  [Log] X 
+2018-10-25 19:05:20,164 INFO  [Log] X 
+2018-10-25 19:05:20,164 INFO  [Log] X 
+2018-10-25 19:19:07,850 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:19:07,851 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:19:07,852 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 19:19:07,852 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:19:07,852 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:19:08,529 INFO  [Log]  Excel sheet opened 
+2018-10-25 19:19:21,603 INFO  [Log] New driver instantiated 
+2018-10-25 19:19:21,629 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 19:19:58,937 INFO  [Log] Web application launched 
+2018-10-25 19:19:58,956 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 19:19:58,956 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 19:19:59,027 INFO  [Log] Username text box found 
+2018-10-25 19:19:59,105 INFO  [Log] Username entered in the Username text box 
+2018-10-25 19:19:59,119 INFO  [Log] Password text box found 
+2018-10-25 19:19:59,153 INFO  [Log] Password entered in the Password text box 
+2018-10-25 19:19:59,168 INFO  [Log] Submit button found 
+2018-10-25 19:20:35,358 INFO  [Log] Click action performed on Submit button 
+2018-10-25 19:20:35,384 INFO  [Log] Hospital  element found 
+2018-10-25 19:20:40,706 INFO  [Log] Click action is perfomred on the hospital selected 
+2018-10-25 19:20:40,748 INFO  [Log] Clicked on logged in User image 
+2018-10-25 19:20:40,995 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 19:20:41,176 INFO  [Log] Log Out link element found 
+2018-10-25 19:20:42,549 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 19:20:42,702 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-25 19:20:42,702 INFO  [Log] X 
+2018-10-25 19:20:42,702 INFO  [Log] X 
+2018-10-25 19:20:42,702 INFO  [Log] X 
+2018-10-25 19:20:42,702 INFO  [Log] X 
+2018-10-25 19:21:02,820 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:21:02,821 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:21:02,821 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 19:21:02,821 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:21:02,821 INFO  [Log] **************************************************************************************** 
+2018-10-25 19:21:03,475 INFO  [Log]  Excel sheet opened 
+2018-10-25 19:21:10,093 INFO  [Log] New driver instantiated 
+2018-10-25 19:21:10,107 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-25 19:21:19,811 INFO  [Log] Web application launched 
+2018-10-25 19:21:19,816 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-25 19:21:19,816 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-25 19:21:19,843 INFO  [Log] Username text box found 
+2018-10-25 19:21:19,891 INFO  [Log] Username entered in the Username text box 
+2018-10-25 19:21:19,907 INFO  [Log] Password text box found 
+2018-10-25 19:21:19,938 INFO  [Log] Password entered in the Password text box 
+2018-10-25 19:21:19,955 INFO  [Log] Submit button found 
+2018-10-25 19:21:28,063 INFO  [Log] Click action performed on Submit button 
+2018-10-25 19:21:28,096 INFO  [Log] Hospital  element found 
+2018-10-25 19:21:33,960 INFO  [Log] Click action is perfomred on the hospital selected 
+2018-10-25 19:21:34,028 INFO  [Log] Clicked on logged in User image 
+2018-10-25 19:21:34,282 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 19:21:34,484 INFO  [Log] Log Out link element found 
+2018-10-25 19:21:34,744 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-25 19:21:34,908 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-25 19:21:34,908 INFO  [Log] X 
+2018-10-25 19:21:34,908 INFO  [Log] X 
+2018-10-25 19:21:34,908 INFO  [Log] X 
+2018-10-25 19:21:34,908 INFO  [Log] X 
+2018-10-26 14:13:28,118 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:13:28,119 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:13:28,119 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-26 14:13:28,119 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:13:28,119 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:13:28,745 INFO  [Log]  Excel sheet opened 
+2018-10-26 14:14:33,533 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:14:33,534 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:14:33,534 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-26 14:14:33,534 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:14:33,534 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:14:34,111 INFO  [Log]  Excel sheet opened 
+2018-10-26 14:14:59,156 INFO  [Log] New driver instantiated 
+2018-10-26 14:14:59,485 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-26 14:15:09,683 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-26 14:15:09,684 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-26 14:15:09,748 INFO  [Log] Username text box found 
+2018-10-26 14:15:09,937 INFO  [Log] Username entered in the Username text box 
+2018-10-26 14:15:10,007 INFO  [Log] Password text box found 
+2018-10-26 14:15:10,054 INFO  [Log] Password entered in the Password text box 
+2018-10-26 14:15:10,070 INFO  [Log] Submit button found 
+2018-10-26 14:15:22,570 INFO  [Log] Click action performed on Submit button 
+2018-10-26 14:51:55,883 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:51:55,884 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:51:55,884 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-26 14:51:55,884 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:51:55,884 INFO  [Log] **************************************************************************************** 
+2018-10-26 14:51:56,472 INFO  [Log]  Excel sheet opened 
+2018-10-26 14:52:05,969 INFO  [Log] New driver instantiated 
+2018-10-26 14:52:06,055 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-26 14:52:11,635 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-26 14:52:11,638 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-26 14:52:11,675 INFO  [Log] Username text box found 
+2018-10-26 14:52:11,774 INFO  [Log] Username entered in the Username text box 
+2018-10-26 14:52:11,794 INFO  [Log] Password text box found 
+2018-10-26 14:52:11,844 INFO  [Log] Password entered in the Password text box 
+2018-10-26 14:52:11,862 INFO  [Log] Submit button found 
+2018-10-26 14:52:19,735 INFO  [Log] Click action performed on Submit button 
+2018-10-26 15:39:23,182 INFO  [Log] **************************************************************************************** 
+2018-10-26 15:39:23,182 INFO  [Log] **************************************************************************************** 
+2018-10-26 15:39:23,182 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-26 15:39:23,182 INFO  [Log] **************************************************************************************** 
+2018-10-26 15:39:23,182 INFO  [Log] **************************************************************************************** 
+2018-10-26 15:39:23,775 INFO  [Log]  Excel sheet opened 
+2018-10-26 15:39:35,291 INFO  [Log] New driver instantiated 
+2018-10-26 15:39:35,332 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-26 15:39:43,358 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-26 15:39:43,361 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-26 15:39:43,382 INFO  [Log] Username text box found 
+2018-10-26 15:39:43,427 INFO  [Log] Username entered in the Username text box 
+2018-10-26 15:39:43,441 INFO  [Log] Password text box found 
+2018-10-26 15:39:43,467 INFO  [Log] Password entered in the Password text box 
+2018-10-26 15:39:43,482 INFO  [Log] Submit button found 
+2018-10-26 15:39:53,663 INFO  [Log] Click action performed on Submit button 
+2018-10-26 15:41:20,032 INFO  [Log] **************************************************************************************** 
+2018-10-26 15:41:20,033 INFO  [Log] **************************************************************************************** 
+2018-10-26 15:41:20,033 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-26 15:41:20,033 INFO  [Log] **************************************************************************************** 
+2018-10-26 15:41:20,033 INFO  [Log] **************************************************************************************** 
+2018-10-26 15:41:20,648 INFO  [Log]  Excel sheet opened 
+2018-10-26 15:41:26,723 INFO  [Log] New driver instantiated 
+2018-10-26 15:41:26,767 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-10-26 15:41:35,320 INFO  [Log] Web application launched 
+2018-10-26 15:41:35,330 INFO  [Log] Username picked from Excel is admin@hcf.com 
+2018-10-26 15:41:35,330 INFO  [Log] Password picked from Excel is hcf@123// 
+2018-10-26 15:41:35,358 INFO  [Log] Username text box found 
+2018-10-26 15:41:35,406 INFO  [Log] Username entered in the Username text box 
+2018-10-26 15:41:35,423 INFO  [Log] Password text box found 
+2018-10-26 15:41:35,452 INFO  [Log] Password entered in the Password text box 
+2018-10-26 15:41:35,468 INFO  [Log] Submit button found 
+2018-10-26 15:41:45,790 INFO  [Log] Click action performed on Submit button 
+2018-10-26 15:41:45,820 INFO  [Log] Hospital  element found 
+2018-10-26 15:41:50,965 INFO  [Log] Click action is perfomred on the hospital selected 
+2018-10-26 15:41:51,088 INFO  [Log] Clicked on logged in User image 
+2018-10-26 15:41:51,382 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-26 15:41:51,563 INFO  [Log] Log Out link element found 
+2018-10-26 15:41:51,822 INFO  [Log] Click action is perfomred on User image of the logged in user 
+2018-10-26 15:41:52,087 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-26 15:41:52,087 INFO  [Log] X 
+2018-10-26 15:41:52,087 INFO  [Log] X 
+2018-10-26 15:41:52,087 INFO  [Log] X 
+2018-10-26 15:41:52,087 INFO  [Log] X 
+2018-10-26 16:35:44,025 INFO  [Log] **************************************************************************************** 
+2018-10-26 16:35:44,083 INFO  [Log] **************************************************************************************** 
+2018-10-26 16:35:44,083 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-26 16:35:44,083 INFO  [Log] **************************************************************************************** 
+2018-10-26 16:35:44,083 INFO  [Log] **************************************************************************************** 
+2018-10-26 16:35:44,857 INFO  [Log]  Excel sheet opened 
+2018-10-26 16:37:30,641 INFO  [Log] **************************************************************************************** 
+2018-10-26 16:37:30,641 INFO  [Log] **************************************************************************************** 
+2018-10-26 16:37:30,642 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-26 16:37:30,642 INFO  [Log] **************************************************************************************** 
+2018-10-26 16:37:30,642 INFO  [Log] **************************************************************************************** 
+2018-10-26 16:37:31,245 INFO  [Log]  Excel sheet opened 
